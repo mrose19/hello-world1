@@ -1,5 +1,5 @@
 # hello-world1
 
-First github
+First github project
 
 hello-world
